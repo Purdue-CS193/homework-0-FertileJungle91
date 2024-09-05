@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 # FertileJungle's First CS193 
-- Some things I like about CS 193:
+### Some things I like about CS 193:
 - The interesting lectures
 - The enthusiastic instructors
 - The colorful and graphic presentations
