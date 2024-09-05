@@ -5,7 +5,12 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
-# FertileJungle's First CS193 Homework
+# FertileJungle's First CS193 
+- Some things I like about CS 193:
+- The interesting lectures
+- The enthusiastic instructors
+- The colorful and graphic presentations
+- The focus on necessities outside of core CS classwork
 
 ### Markdown
 
